@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T07:31:56.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="17.4.0" etag="po-lJJekQ7PtUrpdm_7c" type="github"><diagram id="ijrPxxgyHEZl9hYFufFY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-01T08:21:51.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="xNMJ3YNygZcwF7798fi3" version="17.4.0" type="github">
+  <diagram id="ijrPxxgyHEZl9hYFufFY" name="Page-1">
+    <mxGraphModel dx="1093" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-1" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 16px ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;Run-Time Data Areas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="830" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-5" value="Thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-9" value="Thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-10" value="Thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-6" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;The pc Register&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-11" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;JVM Stacks&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-12" value="Heap" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="490" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-13" value="&lt;p style=&quot;margin: 15px 0px 0px ; padding: 0px ; color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Method Area&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="565" width="230" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-14" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run-Time Constant Pool&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5ShxLyK9M8xZk3PsJVc-15" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;source han sans cn&amp;#34; , &amp;#34;xin gothic&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Native Method Stacks&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
